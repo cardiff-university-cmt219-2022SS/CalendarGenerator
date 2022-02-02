@@ -11,7 +11,7 @@
 > Of course, this file is based on the iCalendar standard, so that means you can subscribe this calendar by any application you like which supports iCalendar standard.
 >
 
-Link: (Optional Modules)[https://raw.githubusercontent.com/Allwayz/iCalendarGenerator/master/OptionalModules.ics]
+Link: [Optional Modules](https://raw.githubusercontent.com/cardiff-university-cmt219-2022SS/CalendarGenerator/master/OptionalModules.ics)
 
 > ps. If the school's schedule already changed, and I didn't update this calendar, please remind me to make this calendar up-to-date.
 
