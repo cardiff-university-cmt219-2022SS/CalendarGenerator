@@ -1,44 +1,19 @@
-# coding: utf-8
+# -*- coding: utf-8 -*-
+# @Organization     : Cardiff School of Computer Science and Informatics
+# @Project          : iCalendarGenerator
+# @Author           : YuChen Liu
+# @StudentNumber    : 21096441
+# @Email            : LiuY282@cardiff.ac.uk
+# @Time             : 01/02/2022 13:29
+# @Function:
 import uuid
 from datetime import datetime, timedelta, timezone
-import time
-import os
 from icalendar import Calendar, Event
+from dicts import time_dict, course_dict
 
 tz_utc_0 = timezone(timedelta(hours=0))
 tz_utc_1 = timezone(timedelta(hours=1))
 
-time_dict = {
-    1: [(9, 00), (11, 00)],
-    2: [(9, 00), (10, 45)],
-    3: [(9, 00), (13, 00)],
-    4: [(10, 00), (11, 45)],
-    5: [(11, 00), (12, 30)],
-    6: [(11, 00), (11, 45)],
-    7: [(11, 00), (12, 45)],
-    8: [(12, 00), (13, 45)],
-    9: [(13, 00), (14, 00)],
-    10: [(14, 00), (16, 00)],
-    11: [(15, 00), (16, 00)],
-    12: [(11, 00), (12, 00)],
-    13: [(15, 00), (17, 00)],
-    14: [(12, 00), (13, 00)],
-    15: [(11, 00), (12, 15)],
-    16: [(9, 00), (11, 45)],
-    17: [(9, 00), (12, 00)],
-    18: [(11, 00), (13, 00)]
-}
-course_dict = {
-    'CMT202': 'CMT202 - Distributed and Cloud Computing',
-    'CMT206': 'CMT206 - Human Centric Computing',
-    'CMT218': 'CMT218 - Data Visualisation',
-    'CMT219': 'CMT219 - Algorithms, Data Structures and Programming',
-    'CMT220': 'CMT220 - Databases and Modelling',
-    'CMT221': 'CMT221 - Topics, Research and Skills in Computing',
-    'CMT222': 'CMT222 - Topics, Research and Skills in Computing and IT Management',
-    'CMT312': 'CMT312 - IT Management, Change and Innovation',
-    'CMT313': 'CMT313 - Software Engineering'
-}
 begin_year = 2022
 begin_month = 1
 begin_day = 31
@@ -276,7 +251,26 @@ if __name__ == "__main__":
             'time': time_dict[3],
             'week': [1, 2, 3, 4, 5, 6, 8, 9, 13, 14],
             'day': [5]
-        }
+        },
+        # CMT224 社交计算
+        {
+            'name': course_dict.get('CMT224'),
+            'desc': 'Type: Workshop\n\nModule code: CMT224\n\nStaff member(s): Liam Turner'
+                    '\n\nLast synchronised on 2022-02-02 at 21:25 GMT',
+            'location': 'South/S/2.22',
+            'time': time_dict[2],
+            'week': [1, 2, 3, 4, 5, 8, 9, 13, 14],
+            'day': [3]
+        },
+        {
+            'name': course_dict.get('CMT224'),
+            'desc': 'Type: Workshop(online)\n\nModule code: CMT224\n\nStaff member(s): Liam Turner'
+                    '\n\nLast synchronised on 2022-02-02 at 21:25 GMT',
+            'location': 'South/S/2.22',
+            'time': time_dict[1],
+            'week': [6],
+            'day': [3]
+        },
         ###########################
         # {
         #     'name': course_dict.get('CMT219'),
@@ -291,7 +285,6 @@ if __name__ == "__main__":
 
     begin_date = datetime(begin_year, begin_month, begin_day)
     for lesson in cls_lst:
-        # 课程名字，教师，教室
         # 课程开始时间(s1小时，s2分钟)，课程结束时间(e1小时，e2分钟)
         # name, teacher, room = f'{lesson["name"]}-{lesson["room"]}', lesson['teacher'], lesson['room']
         name, desc, location = lesson['name'], lesson['desc'], lesson['location']

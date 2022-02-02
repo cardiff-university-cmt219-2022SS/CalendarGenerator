@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220131T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220131T110000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b89fdd74-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90abe8c-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nhttps://tinyurl.com/bdf242yb: https://tinyurl.com
@@ -17,8 +17,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220207T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220207T110000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b89fe170-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ac260-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nhttps://tinyurl.com/bdf242yb: https://tinyurl.com
@@ -29,8 +29,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220214T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220214T110000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b89fe468-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ac738-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nhttps://tinyurl.com/bdf242yb: https://tinyurl.com
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220221T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220221T110000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b89fe71a-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90aca9e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nhttps://tinyurl.com/bdf242yb: https://tinyurl.com
@@ -53,8 +53,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220228T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220228T110000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b89fe9b8-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90acd5a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nhttps://tinyurl.com/bdf242yb: https://tinyurl.com
@@ -65,8 +65,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220307T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220307T110000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b89fec42-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ad02a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nhttps://tinyurl.com/bdf242yb: https://tinyurl.com
@@ -77,8 +77,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220321T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220321T110000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b89feee0-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ad32c-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nhttps://tinyurl.com/bdf242yb: https://tinyurl.com
@@ -89,8 +89,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220328T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220328T110000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b89ff1a6-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ad610-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nhttps://tinyurl.com/bdf242yb: https://tinyurl.com
@@ -101,8 +101,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220425T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220425T110000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b89ff840-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ad890-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nhttps://tinyurl.com/bdf242yb: https://tinyurl.com
@@ -113,8 +113,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220503T110000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220503T130000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b89ffbc4-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90adb60-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nhttps://tinyurl.com/bdf242yb: https://tinyurl.com
@@ -125,8 +125,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220131T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220131T140000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a00178-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90addf4-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nOptional Online drop-in session\n\nhttps://tinyur
@@ -138,8 +138,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220207T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220207T140000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a00510-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ae056-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nOptional Online drop-in session\n\nhttps://tinyur
@@ -151,8 +151,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220214T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220214T140000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a007cc-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ae2e0-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nOptional Online drop-in session\n\nhttps://tinyur
@@ -164,8 +164,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220221T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220221T140000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a00a6a-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ae556-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nOptional Online drop-in session\n\nhttps://tinyur
@@ -177,8 +177,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220228T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220228T140000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a010be-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ae7cc-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nOptional Online drop-in session\n\nhttps://tinyur
@@ -190,8 +190,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220307T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220307T140000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a014e2-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90aea56-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nOptional Online drop-in session\n\nhttps://tinyur
@@ -203,8 +203,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220321T130000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220321T140000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a017f8-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90aeede-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nOptional Online drop-in session\n\nhttps://tinyur
@@ -216,8 +216,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220328T130000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220328T140000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a01b54-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90af1ae-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nOptional Online drop-in session\n\nhttps://tinyur
@@ -229,8 +229,8 @@ BEGIN:VEVENT
 SUMMARY:CMT202 - Distributed and Cloud Computing
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220425T130000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220425T140000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a01dfc-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90af42e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical(online)\n\nModule code: CMT202\n\nStaff member
  (s): Padraig Corcoran\n\nOptional Online drop-in session\n\nhttps://tinyur
@@ -242,8 +242,8 @@ BEGIN:VEVENT
 SUMMARY:CMT220 - Databases and Modelling
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220201T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220201T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a020a4-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90af6ea-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar(online)\n\nModule code: CMT220\n\nStaff member(s
  ): Irena Spasic\n\nJoin Zoom meeting: https://cardiff.zoom.us/j/8901651583
@@ -256,8 +256,8 @@ BEGIN:VEVENT
 SUMMARY:CMT220 - Databases and Modelling
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220208T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a02342-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90afb68-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar(online)\n\nModule code: CMT220\n\nStaff member(s
  ): Irena Spasic\n\nJoin Zoom meeting: https://cardiff.zoom.us/j/8901651583
@@ -270,8 +270,8 @@ BEGIN:VEVENT
 SUMMARY:CMT220 - Databases and Modelling
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220215T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220215T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a025cc-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90afe88-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar(online)\n\nModule code: CMT220\n\nStaff member(s
  ): Irena Spasic\n\nJoin Zoom meeting: https://cardiff.zoom.us/j/8901651583
@@ -284,8 +284,8 @@ BEGIN:VEVENT
 SUMMARY:CMT220 - Databases and Modelling
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220222T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0284c-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b013a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar(online)\n\nModule code: CMT220\n\nStaff member(s
  ): Irena Spasic\n\nJoin Zoom meeting: https://cardiff.zoom.us/j/8901651583
@@ -298,8 +298,8 @@ BEGIN:VEVENT
 SUMMARY:CMT220 - Databases and Modelling
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220301T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220301T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a02acc-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b03ce-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar(online)\n\nModule code: CMT220\n\nStaff member(s
  ): Irena Spasic\n\nJoin Zoom meeting: https://cardiff.zoom.us/j/8901651583
@@ -312,8 +312,8 @@ BEGIN:VEVENT
 SUMMARY:CMT220 - Databases and Modelling
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220308T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a02d7e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b0658-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar(online)\n\nModule code: CMT220\n\nStaff member(s
  ): Irena Spasic\n\nJoin Zoom meeting: https://cardiff.zoom.us/j/8901651583
@@ -326,8 +326,8 @@ BEGIN:VEVENT
 SUMMARY:CMT220 - Databases and Modelling
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220322T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220322T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a02fe0-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b08e2-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar(online)\n\nModule code: CMT220\n\nStaff member(s
  ): Irena Spasic\n\nJoin Zoom meeting: https://cardiff.zoom.us/j/8901651583
@@ -340,8 +340,8 @@ BEGIN:VEVENT
 SUMMARY:CMT220 - Databases and Modelling
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220329T150000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220329T160000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0327e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b0b94-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar(online)\n\nModule code: CMT220\n\nStaff member(s
  ): Irena Spasic\n\nJoin Zoom meeting: https://cardiff.zoom.us/j/8901651583
@@ -354,8 +354,8 @@ BEGIN:VEVENT
 SUMMARY:CMT220 - Databases and Modelling
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220426T150000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220426T160000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0351c-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b0e50-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar(online)\n\nModule code: CMT220\n\nStaff member(s
  ): Irena Spasic\n\nJoin Zoom meeting: https://cardiff.zoom.us/j/8901651583
@@ -368,8 +368,8 @@ BEGIN:VEVENT
 SUMMARY:CMT220 - Databases and Modelling
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220503T150000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220503T170000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a037b0-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b10ee-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar(online)\n\nModule code: CMT220\n\nStaff member(s
  ): Irena Spasic\n\nJoin Zoom meeting: https://cardiff.zoom.us/j/8901651583
@@ -382,8 +382,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220201T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220201T104500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a03a4e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b1378-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 1\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -395,8 +395,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220208T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220208T104500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a03cce-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b1602-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 1\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -408,8 +408,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220215T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220215T104500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a03f4e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b1878-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 1\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -421,8 +421,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220222T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T104500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a04476-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b1ae4-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 1\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -434,8 +434,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220301T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220301T104500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a047e6-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b1d78-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 1\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -447,8 +447,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220308T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220308T104500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a04ab6-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b21ba-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 1\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -460,8 +460,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220322T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220322T104500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a04d54-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b249e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 1\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -473,8 +473,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220329T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220329T104500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0501a-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b278c-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 1\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -486,8 +486,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220426T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220426T104500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a052d6-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b2a2a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 1\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -499,8 +499,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220201T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220201T124500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a05574-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b2cdc-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 2\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -512,8 +512,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220208T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220208T124500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a057e0-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b2f52-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 2\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -525,8 +525,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220215T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220215T124500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a05a56-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b31e6-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 2\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -538,8 +538,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220222T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T124500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a05cf4-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b3452-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 2\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -551,8 +551,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220301T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220301T124500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a061fe-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b36b4-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 2\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -564,8 +564,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220308T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220308T124500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a065b4-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b3916-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 2\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -577,8 +577,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220322T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220322T124500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0688e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b3be6-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 2\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -590,8 +590,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220329T110000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220329T124500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a06b54-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b3e48-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 2\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -603,8 +603,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220426T110000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220426T124500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a07072-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b40f0-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT218\n\nStaff member(s): Martin
   Chorley\n\nGroup 2\n\nhttps://cardiff.zoom.us/j/86959746329?pwd=SFdzVnZOc
@@ -616,8 +616,8 @@ BEGIN:VEVENT
 SUMMARY:CMT218 - Data Visualisation
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220503T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220503T110000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a07310-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b4398-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical (Online)\n\nModule code:CMT218\n\nStaff member
  (s): Martin Chorley\n\n\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -627,8 +627,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220201T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220201T123000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a075e0-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b47a8-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (Online)\n\nModule code:CMT206\n\nStaff member(s
  ): Alia Abdelmoty\n\n\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -638,8 +638,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220208T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220208T123000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a07874-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b4a1e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (Online)\n\nModule code:CMT206\n\nStaff member(s
  ): Alia Abdelmoty\n\n\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -649,8 +649,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220215T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220215T123000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a07af4-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b4c94-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (Online)\n\nModule code:CMT206\n\nStaff member(s
  ): Alia Abdelmoty\n\n\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -660,8 +660,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220222T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220222T121500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0809e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b4f1e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT206\n\nStaff member(s): Alia A
  bdelmoty\n\n\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -671,8 +671,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220301T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220301T121500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a083a0-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b518a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT206\n\nStaff member(s): Alia A
  bdelmoty\n\n\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -682,8 +682,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220308T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220308T121500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a08698-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b5414-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT206\n\nStaff member(s): Alia A
  bdelmoty\n\n\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -693,8 +693,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220322T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220322T121500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a08990-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b568a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT206\n\nStaff member(s): Alia A
  bdelmoty\n\n\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -704,8 +704,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220329T110000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220329T121500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a08cf6-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b5914-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar\n\nModule code:CMT206\n\nStaff member(s): Alia A
  bdelmoty\n\n\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -715,8 +715,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220210T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220210T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a090ca-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b5bb2-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical (Online)\n\nModule code:CMT206\n\nStaff member
  (s): Alia Abdelmoty\n\nOptional drop in session\n\nLast synchronised on 20
@@ -727,8 +727,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220217T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220217T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0948a-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b5e32-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical (Online)\n\nModule code:CMT206\n\nStaff member
  (s): Alia Abdelmoty\n\nOptional drop in session\n\nLast synchronised on 20
@@ -739,8 +739,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220224T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220224T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a097c8-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b60b2-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical (Online)\n\nModule code:CMT206\n\nStaff member
  (s): Alia Abdelmoty\n\nOptional drop in session\n\nLast synchronised on 20
@@ -751,8 +751,8 @@ BEGIN:VEVENT
 SUMMARY:CMT206 - Human Centric Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220303T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220303T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a09b4c-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b6328-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical (Online)\n\nModule code:CMT206\n\nStaff member
  (s): Alia Abdelmoty\n\nOptional drop in session\n\nLast synchronised on 20
@@ -763,8 +763,8 @@ BEGIN:VEVENT
 SUMMARY:CMT219 - Algorithms\, Data Structures and Programming
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220203T100000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220203T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0a0c4-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b659e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical\n\nModule code: CMT219\n\nStaff member(s): Mat
  thew Morgan\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -774,8 +774,8 @@ BEGIN:VEVENT
 SUMMARY:CMT219 - Algorithms\, Data Structures and Programming
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220210T100000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220210T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0a420-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b6814-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical\n\nModule code: CMT219\n\nStaff member(s): Mat
  thew Morgan\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -785,8 +785,8 @@ BEGIN:VEVENT
 SUMMARY:CMT219 - Algorithms\, Data Structures and Programming
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220217T100000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220217T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0a6e6-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b6a80-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical\n\nModule code: CMT219\n\nStaff member(s): Mat
  thew Morgan\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -796,8 +796,8 @@ BEGIN:VEVENT
 SUMMARY:CMT219 - Algorithms\, Data Structures and Programming
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220224T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220224T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0a998-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b6d1e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical\n\nModule code: CMT219\n\nStaff member(s): Dan
  iela Tsaneva\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -807,8 +807,8 @@ BEGIN:VEVENT
 SUMMARY:CMT219 - Algorithms\, Data Structures and Programming
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220303T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220303T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0ac22-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b6f76-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical\n\nModule code: CMT219\n\nStaff member(s): Dan
  iela Tsaneva\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -818,8 +818,8 @@ BEGIN:VEVENT
 SUMMARY:CMT219 - Algorithms\, Data Structures and Programming
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220428T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220428T114500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0aede-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b7214-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical\n\nModule code: CMT219\n\nStaff member(s): Dan
  iela Tsaneva\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -829,8 +829,8 @@ BEGIN:VEVENT
 SUMMARY:CMT219 - Algorithms\, Data Structures and Programming
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220505T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220505T114500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0b14a-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b7494-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical\n\nModule code: CMT219\n\nStaff member(s): Dan
  iela Tsaneva\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -840,8 +840,8 @@ BEGIN:VEVENT
 SUMMARY:CMT219 - Algorithms\, Data Structures and Programming
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220310T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220310T120000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0b42e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b771e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical (online)\n\nModule code: CMT219\n\nStaff membe
  r(s): Neetesh Saxena\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -851,8 +851,8 @@ BEGIN:VEVENT
 SUMMARY:CMT219 - Algorithms\, Data Structures and Programming
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220324T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220324T120000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0b6cc-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b7994-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical (online)\n\nModule code: CMT219\n\nStaff membe
  r(s): Neetesh Saxena\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -862,8 +862,8 @@ BEGIN:VEVENT
 SUMMARY:CMT219 - Algorithms\, Data Structures and Programming
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220331T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220331T120000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0b974-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b7c28-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Practical (online)\n\nModule code: CMT219\n\nStaff membe
  r(s): Neetesh Saxena\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -874,8 +874,8 @@ SUMMARY:CMT222 - Topics\, Research and Skills in Computing and IT Manageme
  nt
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220203T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220203T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0bc1c-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b7ed0-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT222\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -886,8 +886,8 @@ SUMMARY:CMT222 - Topics\, Research and Skills in Computing and IT Manageme
  nt
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220210T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220210T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0be7e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b8146-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT222\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -898,8 +898,8 @@ SUMMARY:CMT222 - Topics\, Research and Skills in Computing and IT Manageme
  nt
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220217T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220217T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0c112-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b83c6-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT222\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -910,8 +910,8 @@ SUMMARY:CMT222 - Topics\, Research and Skills in Computing and IT Manageme
  nt
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220224T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220224T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0c3ce-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b8614-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT222\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -922,8 +922,8 @@ SUMMARY:CMT222 - Topics\, Research and Skills in Computing and IT Manageme
  nt
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220303T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220303T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0c66c-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b8894-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT222\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -934,8 +934,8 @@ SUMMARY:CMT222 - Topics\, Research and Skills in Computing and IT Manageme
  nt
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220310T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220310T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0c90a-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b8b1e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT222\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -946,8 +946,8 @@ SUMMARY:CMT222 - Topics\, Research and Skills in Computing and IT Manageme
  nt
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220324T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220324T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0cba8-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b8d6c-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT222\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -958,8 +958,8 @@ SUMMARY:CMT222 - Topics\, Research and Skills in Computing and IT Manageme
  nt
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220331T140000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220331T160000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0ce50-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b8ff6-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT222\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -970,8 +970,8 @@ SUMMARY:CMT222 - Topics\, Research and Skills in Computing and IT Manageme
  nt
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220428T140000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220428T160000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0d288-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b92bc-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT222\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -982,8 +982,8 @@ SUMMARY:CMT222 - Topics\, Research and Skills in Computing and IT Manageme
  nt
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220505T140000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220505T160000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0d54e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b9528-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT222\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -993,8 +993,8 @@ BEGIN:VEVENT
 SUMMARY:CMT221 - Topics\, Research and Skills in Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220203T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220203T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0d7f6-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b9910-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT221\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1004,8 +1004,8 @@ BEGIN:VEVENT
 SUMMARY:CMT221 - Topics\, Research and Skills in Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220210T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220210T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0dc06-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b9b7c-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT221\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1015,8 +1015,8 @@ BEGIN:VEVENT
 SUMMARY:CMT221 - Topics\, Research and Skills in Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220217T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220217T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0df80-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90b9dfc-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT221\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1026,8 +1026,8 @@ BEGIN:VEVENT
 SUMMARY:CMT221 - Topics\, Research and Skills in Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220224T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220224T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0e23c-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ba054-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT221\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1037,8 +1037,8 @@ BEGIN:VEVENT
 SUMMARY:CMT221 - Topics\, Research and Skills in Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220303T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220303T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0e75a-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ba338-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT221\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1048,8 +1048,8 @@ BEGIN:VEVENT
 SUMMARY:CMT221 - Topics\, Research and Skills in Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220310T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220310T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0ec28-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ba590-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT221\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1059,8 +1059,8 @@ BEGIN:VEVENT
 SUMMARY:CMT221 - Topics\, Research and Skills in Computing
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220324T140000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220324T160000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0ef20-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90ba7fc-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT221\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1070,8 +1070,8 @@ BEGIN:VEVENT
 SUMMARY:CMT221 - Topics\, Research and Skills in Computing
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220331T140000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220331T160000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0f1dc-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90baac2-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT221\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1081,8 +1081,8 @@ BEGIN:VEVENT
 SUMMARY:CMT221 - Topics\, Research and Skills in Computing
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220428T140000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220428T160000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0f498-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bad4c-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT221\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1092,8 +1092,8 @@ BEGIN:VEVENT
 SUMMARY:CMT221 - Topics\, Research and Skills in Computing
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220505T140000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220505T160000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0f70e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bafc2-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Seminar (online)\n\nModule code: CMT221\n\nStaff member(
  s): Martin Chorley\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1103,8 +1103,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220202T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220202T134500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0f984-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bb242-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT313\n\nStaff member(s): Ph
  illips\, Helen\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1114,8 +1114,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220209T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220209T134500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a0fe66-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bb4d6-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT313\n\nStaff member(s): Ph
  illips\, Helen\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1125,8 +1125,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220216T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220216T134500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a10190-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bb724-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT313\n\nStaff member(s): Ph
  illips\, Helen\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1136,8 +1136,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220223T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220223T134500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a104d8-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bb990-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT313\n\nStaff member(s): Ph
  illips\, Helen\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1147,8 +1147,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220302T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220302T134500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a10762-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bbc2e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT313\n\nStaff member(s): Ph
  illips\, Helen\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1158,8 +1158,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220309T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220309T134500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a10dca-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bbe90-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT313\n\nStaff member(s): Ph
  illips\, Helen\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1169,8 +1169,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220323T120000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220323T134500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a1123e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bc0f2-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT313\n\nStaff member(s): Ph
  illips\, Helen\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1180,8 +1180,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220330T120000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220330T134500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a1152c-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bc39a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT313\n\nStaff member(s): Ph
  illips\, Helen\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1191,8 +1191,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220427T120000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220427T134500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a1184c-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bc624-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT313\n\nStaff member(s): Ph
  illips\, Helen\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1202,8 +1202,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220504T120000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220504T134500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a11afe-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bc89a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT313\n\nStaff member(s): Ph
  illips\, Helen\n\nLast synchronised on 2022-02-01 at 14:06 GMT
@@ -1213,8 +1213,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220204T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220204T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a11d9c-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bcb1a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT313\n\nStaff member(
  s): Daniela Tsaneva\, Matthew Moloughney\, Phillips\, Helen\n\nhttps://tin
@@ -1226,8 +1226,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220211T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220211T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a12030-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bcd9a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT313\n\nStaff member(
  s): Daniela Tsaneva\, Matthew Moloughney\, Phillips\, Helen\n\nhttps://tin
@@ -1239,8 +1239,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220218T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220218T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a122a6-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bcfde-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT313\n\nStaff member(
  s): Daniela Tsaneva\, Matthew Moloughney\, Phillips\, Helen\n\nhttps://tin
@@ -1252,8 +1252,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220225T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220225T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a12526-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bd240-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT313\n\nStaff member(
  s): Daniela Tsaneva\, Matthew Moloughney\, Phillips\, Helen\n\nhttps://tin
@@ -1265,8 +1265,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220304T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220304T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a12800-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bd4ac-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT313\n\nStaff member(
  s): Daniela Tsaneva\, Matthew Moloughney\, Phillips\, Helen\n\nhttps://tin
@@ -1278,8 +1278,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220311T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220311T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a12a8a-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bd722-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT313\n\nStaff member(
  s): Daniela Tsaneva\, Matthew Moloughney\, Phillips\, Helen\n\nhttps://tin
@@ -1291,8 +1291,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220325T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220325T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a12d6e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bd998-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT313\n\nStaff member(
  s): Daniela Tsaneva\, Matthew Moloughney\, Phillips\, Helen\n\nhttps://tin
@@ -1304,8 +1304,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220401T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220401T130000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a12ff8-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bdc2c-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT313\n\nStaff member(
  s): Daniela Tsaneva\, Matthew Moloughney\, Phillips\, Helen\n\nhttps://tin
@@ -1317,8 +1317,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220429T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220429T130000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a132b4-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bdede-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT313\n\nStaff member(
  s): Daniela Tsaneva\, Matthew Moloughney\, Phillips\, Helen\n\nhttps://tin
@@ -1330,8 +1330,8 @@ BEGIN:VEVENT
 SUMMARY:CMT313 - Software Engineering
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220506T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220506T130000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a13944-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90be3f2-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT313\n\nStaff member(
  s): Daniela Tsaneva\, Matthew Moloughney\, Phillips\, Helen\n\nhttps://tin
@@ -1343,8 +1343,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220202T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220202T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a13c96-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90be71c-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT312\n\nLast synchronised o
  n 2022-02-01 at 14:06 GMT
@@ -1354,8 +1354,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220209T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220209T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a13f48-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90beb40-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT312\n\nLast synchronised o
  n 2022-02-01 at 14:06 GMT
@@ -1365,8 +1365,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220216T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220216T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a141f0-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bedac-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT312\n\nLast synchronised o
  n 2022-02-01 at 14:06 GMT
@@ -1376,8 +1376,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220223T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220223T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a1445c-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bf036-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT312\n\nLast synchronised o
  n 2022-02-01 at 14:06 GMT
@@ -1387,8 +1387,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220302T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220302T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a146e6-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bf2a2-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT312\n\nLast synchronised o
  n 2022-02-01 at 14:06 GMT
@@ -1398,8 +1398,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220309T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220309T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a1497a-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bf4f0-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT312\n\nLast synchronised o
  n 2022-02-01 at 14:06 GMT
@@ -1409,8 +1409,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220323T110000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220323T114500Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a14bf0-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bf8ec-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT312\n\nLast synchronised o
  n 2022-02-01 at 14:06 GMT
@@ -1420,8 +1420,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220330T110000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220330T114500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a14e7a-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bfc8e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT312\n\nLast synchronised o
  n 2022-02-01 at 14:06 GMT
@@ -1431,8 +1431,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220427T110000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220427T114500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a15140-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90bff9a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT312\n\nLast synchronised o
  n 2022-02-01 at 14:06 GMT
@@ -1442,8 +1442,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220504T110000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220504T114500
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a153a2-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c0242-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Self Study\n\nModule code: CMT312\n\nLast synchronised o
  n 2022-02-01 at 14:06 GMT
@@ -1453,8 +1453,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220204T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220204T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a15636-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c04f4-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT312\n\nStaff member(
  s): Catherine Teehan\, Natalia Edwards\, Phillips\, Helen\, Wendy Ivins\n\
@@ -1465,8 +1465,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220211T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220211T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a158c0-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c079c-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT312\n\nStaff member(
  s): Catherine Teehan\, Natalia Edwards\, Phillips\, Helen\, Wendy Ivins\n\
@@ -1477,8 +1477,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220218T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220218T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a15b36-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c0a3a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT312\n\nStaff member(
  s): Catherine Teehan\, Natalia Edwards\, Phillips\, Helen\, Wendy Ivins\n\
@@ -1489,8 +1489,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220225T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220225T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a15d8e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c0f8a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT312\n\nStaff member(
  s): Catherine Teehan\, Natalia Edwards\, Phillips\, Helen\, Wendy Ivins\n\
@@ -1501,8 +1501,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220304T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220304T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a1600e-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c12c8-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT312\n\nStaff member(
  s): Catherine Teehan\, Natalia Edwards\, Phillips\, Helen\, Wendy Ivins\n\
@@ -1513,8 +1513,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220311T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220311T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a16298-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c1584-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT312\n\nStaff member(
  s): Catherine Teehan\, Natalia Edwards\, Phillips\, Helen\, Wendy Ivins\n\
@@ -1525,8 +1525,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20220325T090000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20220325T130000Z
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a164fa-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c1804-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT312\n\nStaff member(
  s): Catherine Teehan\, Natalia Edwards\, Phillips\, Helen\, Wendy Ivins\n\
@@ -1537,8 +1537,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220401T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220401T130000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a1677a-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c1c00-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT312\n\nStaff member(
  s): Catherine Teehan\, Natalia Edwards\, Phillips\, Helen\, Wendy Ivins\n\
@@ -1549,8 +1549,8 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220429T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220429T130000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a16a36-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c1f3e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT312\n\nStaff member(
  s): Catherine Teehan\, Natalia Edwards\, Phillips\, Helen\, Wendy Ivins\n\
@@ -1561,12 +1561,122 @@ BEGIN:VEVENT
 SUMMARY:CMT312 - IT Management\, Change and Innovation
 DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220506T090000
 DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220506T130000
-DTSTAMP;VALUE=DATE-TIME:20220201T180647Z
-UID:b8a16cca-8389-11ec-9e68-149d997f7c2b_timetable4optionalmodule@cardiff.
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c21f0-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
  ac.uk
 DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT312\n\nStaff member(
  s): Catherine Teehan\, Natalia Edwards\, Phillips\, Helen\, Wendy Ivins\n\
  nLast synchronised on 2022-02-01 at 14:06 GMT
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMT224 - Social Computing
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220202T090000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220202T104500Z
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c261e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
+ ac.uk
+DESCRIPTION:Type: Workshop\n\nModule code: CMT224\n\nStaff member(s): Liam
+  Turner\n\nLast synchronised on 2022-02-02 at 21:25 GMT
+LOCATION:South/S/2.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMT224 - Social Computing
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220209T090000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220209T104500Z
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c2c68-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
+ ac.uk
+DESCRIPTION:Type: Workshop\n\nModule code: CMT224\n\nStaff member(s): Liam
+  Turner\n\nLast synchronised on 2022-02-02 at 21:25 GMT
+LOCATION:South/S/2.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMT224 - Social Computing
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220216T090000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220216T104500Z
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c314a-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
+ ac.uk
+DESCRIPTION:Type: Workshop\n\nModule code: CMT224\n\nStaff member(s): Liam
+  Turner\n\nLast synchronised on 2022-02-02 at 21:25 GMT
+LOCATION:South/S/2.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMT224 - Social Computing
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220223T090000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220223T104500Z
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c3712-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
+ ac.uk
+DESCRIPTION:Type: Workshop\n\nModule code: CMT224\n\nStaff member(s): Liam
+  Turner\n\nLast synchronised on 2022-02-02 at 21:25 GMT
+LOCATION:South/S/2.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMT224 - Social Computing
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220302T090000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220302T104500Z
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c3adc-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
+ ac.uk
+DESCRIPTION:Type: Workshop\n\nModule code: CMT224\n\nStaff member(s): Liam
+  Turner\n\nLast synchronised on 2022-02-02 at 21:25 GMT
+LOCATION:South/S/2.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMT224 - Social Computing
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220323T090000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220323T104500Z
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c3db6-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
+ ac.uk
+DESCRIPTION:Type: Workshop\n\nModule code: CMT224\n\nStaff member(s): Liam
+  Turner\n\nLast synchronised on 2022-02-02 at 21:25 GMT
+LOCATION:South/S/2.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMT224 - Social Computing
+DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220330T090000
+DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220330T104500
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c407c-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
+ ac.uk
+DESCRIPTION:Type: Workshop\n\nModule code: CMT224\n\nStaff member(s): Liam
+  Turner\n\nLast synchronised on 2022-02-02 at 21:25 GMT
+LOCATION:South/S/2.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMT224 - Social Computing
+DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220427T090000
+DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220427T104500
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c432e-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
+ ac.uk
+DESCRIPTION:Type: Workshop\n\nModule code: CMT224\n\nStaff member(s): Liam
+  Turner\n\nLast synchronised on 2022-02-02 at 21:25 GMT
+LOCATION:South/S/2.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMT224 - Social Computing
+DTSTART;TZID="UTC+01:00";VALUE=DATE-TIME:20220504T090000
+DTEND;TZID="UTC+01:00";VALUE=DATE-TIME:20220504T104500
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c4608-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
+ ac.uk
+DESCRIPTION:Type: Workshop\n\nModule code: CMT224\n\nStaff member(s): Liam
+  Turner\n\nLast synchronised on 2022-02-02 at 21:25 GMT
+LOCATION:South/S/2.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMT224 - Social Computing
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20220309T090000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20220309T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220202T213954Z
+UID:a90c48b0-8470-11ec-a73f-149d997f7c2b_timetable4optionalmodule@cardiff.
+ ac.uk
+DESCRIPTION:Type: Workshop(online)\n\nModule code: CMT224\n\nStaff member(
+ s): Liam Turner\n\nLast synchronised on 2022-02-02 at 21:25 GMT
+LOCATION:South/S/2.22
 END:VEVENT
 END:VCALENDAR
